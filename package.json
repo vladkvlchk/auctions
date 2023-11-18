@@ -1,0 +1,17 @@
+{
+  "name": "auctions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serverless-bundle": "^6.0.0",
+    "serverless-pseudo-parameters": "^2.6.1"
+  }
+}
