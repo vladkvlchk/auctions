@@ -13,5 +13,10 @@
   "devDependencies": {
     "serverless-bundle": "^6.0.0",
     "serverless-pseudo-parameters": "^2.6.1"
+  },
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.454.0",
+    "@aws-sdk/lib-dynamodb": "^3.454.0",
+    "uuid": "^9.0.1"
   }
 }
